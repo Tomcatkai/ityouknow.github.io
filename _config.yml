@@ -18,7 +18,7 @@ favicon: favicon.png
 repository: tomcatkai/tomcatkai.github.io
 github_url: https://github.com/tomcatkai
 cnblog_url: http://www.cnblogs.com/ityouknow
-url: http://www.tomcatkai.com
+url: https://tomcatkai.github.io
 enforce_ssl: ityouknow.com
 
 ## Gem
