@@ -8,7 +8,5 @@
 
 博客主题使用:[Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll)
 
-
-## 我的微信公众号
-
-![](http://www.ityouknow.com/assets/images/keeppuresmile_430.jpg)
+----------------------------------------原博客和新内容华丽的分界线---------------------------------------------------------------
+#个人技术博客测试
