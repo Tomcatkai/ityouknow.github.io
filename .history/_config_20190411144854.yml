@@ -170,11 +170,11 @@ disqus:
     username: tomcatkai
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: Tomcatkai
+    owner: ityouknow
     repo: blog-comments
     oauth:
-        client_id: db375121ce69eff41e68
-        client_secret: 1f5ed0401240e5610de533ec4fce5898d302652e
+        client_id: 61bfc53d957e74e78f8f
+        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: Tomcatkai

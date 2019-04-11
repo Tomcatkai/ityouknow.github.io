@@ -19,7 +19,7 @@ repository: tomcatkai/tomcatkai.github.io
 github_url: https://github.com/tomcatkai
 cnblog_url: http://www.cnblogs.com/ityouknow
 url: https://tomcatkai.github.io
-#enforce_ssl: ityouknow.com
+enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
@@ -167,19 +167,19 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: tomcatkai
+    username: ityouknow
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: Tomcatkai
+    owner: ityouknow
     repo: blog-comments
     oauth:
-        client_id: db375121ce69eff41e68
-        client_secret: 1f5ed0401240e5610de533ec4fce5898d302652e
+        client_id: 61bfc53d957e74e78f8f
+        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: Tomcatkai
+    owner: ityouknow
     repo: blog-comments
-    clientID: db375121ce69eff41e68
-    clientSecret: 1f5ed0401240e5610de533ec4fce5898d302652e
+    clientID: 61bfc53d957e74e78f8f
+    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
