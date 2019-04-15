@@ -66,8 +66,8 @@ navs:
     label: Spring-Boot
 
   -
-    href: /JavaSE.html
-    label: JavaSE
+    href: /Java.html
+    label: Java基础
 
   -
     href: /archives.html
