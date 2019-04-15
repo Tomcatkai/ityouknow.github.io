@@ -66,8 +66,12 @@ navs:
     label: Spring-Boot
 
   -
-    href: /JavaSE.html
+    href: /java-se.html
     label: JavaSE
+
+  -
+    href: /Algorithm.html
+    label: Algorithm
 
   -
     href: /archives.html

@@ -5,7 +5,7 @@ titlebar: JavaSE
 subtitle: JavaSE
 menu: JavaSE
 css: ['blog-page.css']
-permalink: /JavaSE
+permalink: /java-se
 keywords: JavaSE,Java基础
 ---
-{% include JavaSE.html %}
+{% include java-se.html %}
