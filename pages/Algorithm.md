@@ -9,4 +9,4 @@ permalink: /Algorithm
 keywords: 数据结构与算法
 ---
 
-{% include Algorithm.html %}
+{% include algorithm.html %}
